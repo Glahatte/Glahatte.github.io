@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 p{
   color: purple;
@@ -13,4 +14,21 @@ p{
 #NoMakeItStop{color: black;
 font-size: 16px;}
 .harambe{color: yellow;
+=======
+
+p{
+  color: purple;
+  font-size:22px;
+}div{
+  color: green;
+  font-size: 40px;
+
+}
+#GrayGrayFunZone{color: red;
+  font-size: 100px;
+}
+#NoMakeItStop{color: black;
+font-size: 16px;}
+.harambe{color: yellow;
+>>>>>>> 35c29c7fb233d9efbe0dce92971bd11e96df070f
 }
