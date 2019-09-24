@@ -1,34 +1,23 @@
-<<<<<<< HEAD
 
 p{
   color: purple;
   font-size:22px;
 }div{
-  color: green;
+  color: #f5c242;
   font-size: 40px;
 
 }
 #GrayGrayFunZone{color: red;
   font-size: 100px;
+  width: 320px;
+  padding:400px;
+    border: 20px;
+    margin: 0;
 }
-#NoMakeItStop{color: black;
-font-size: 16px;}
-.harambe{color: yellow;
-=======
+#NoMakeItStop{
+  color:green;
+  width: 200px;
+  padding: 10px;
+  border: 5px dashed pink;
 
-p{
-  color: purple;
-  font-size:22px;
-}div{
-  color: green;
-  font-size: 40px;
-
-}
-#GrayGrayFunZone{color: red;
-  font-size: 100px;
-}
-#NoMakeItStop{color: black;
-font-size: 16px;}
-.harambe{color: yellow;
->>>>>>> 35c29c7fb233d9efbe0dce92971bd11e96df070f
 }
