@@ -1,0 +1,72 @@
+Header{
+    font-size: 30px;
+    font-family: Gothic;
+    color: white;
+    text-shadow:
+      
+  }
+  #picture{width: 250px;
+          height: 200px;
+          float: right;
+          position: relative;
+  }
+  
+  ul{
+    list-style-type: none;
+    padding:;
+    overflow:hidden;
+    background-color: #333;
+    }
+  
+  li{
+    float: right;
+    padding: 10px;
+    
+  }
+  
+  body{
+   background-color: lightseagreen;
+   padding: 5 0px;
+     font-family: arial;
+  }
+  div{
+    color: white;
+    text-indent: 25px;
+    
+  }
+  
+    
+  
+  #EarlyLife{
+    font-size: 40px;
+    color: orange;
+    text-shadow: 
+            -2px -1px 0 #000;
+    text-align: center;
+      text-decoration:underline;
+  
+  }
+  #ComputerHistory{
+      font-size: 40px;
+    color: orange;
+    text-shadow: 
+            -2px -1px 0 #000;
+    text-align: center;
+      text-decoration:underline;
+    text-indent: 300px;
+    
+  }
+  #PostGrad{ font-size: 40px;
+    color: orange;
+    text-shadow: 
+            -2px -1px 0 #000;
+    text-align: center;
+    text-decoration:underline}
+  #StartingClass
+  { font-size: 40px;
+    color: orange;
+    text-shadow: 
+            -2px -1px 0 #000;
+    text-align: center;
+    text-decoration:underline;}
+  
